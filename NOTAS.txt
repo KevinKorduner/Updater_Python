@@ -1,8 +1,6 @@
-# Updater_Python
-Updater en Python funcional.
 Creado el 10/08/2024
 
-
+ALTERNATIVA A LA VERSIÒN DE VB 6.0 QUE PUEDE DAR FALSOS POSITIVOS Y EN ALGUNAS PCS NO ANDA.
 ____________________________
 
 Pasos:
@@ -21,3 +19,6 @@ pyinstaller update.spec
 
 
 3) Asegurate de tener el archivo .SPEC bien configurado.
+
+
+
